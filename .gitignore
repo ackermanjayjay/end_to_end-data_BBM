@@ -1,0 +1,11 @@
+.mypy_cache
+
+logs/*
+
+plugins/*
+
+dags/__pycache__
+
+
+#venv 
+Data-end-to-end
