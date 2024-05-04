@@ -29,4 +29,4 @@ order by jumlah_penjualan DESC
 ```
 
 # result
-![hasil]()
+![hasil](data_jumlah_penjualan.PNG)
